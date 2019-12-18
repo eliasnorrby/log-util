@@ -1,10 +1,30 @@
-# log-util
+# Log Util
 
 [![Travis][travis-badge]][travis-link]
 [![npm][npm-badge]][npm-link]
 
 [![Dependabot Status][dependabot-badge]][dependabot-link]
 [![semantic-release][semantic-release-badge]][semantic-release-link]
+
+A dead simple logging utility I use in my tool configs. 
+
+## Usage
+
+```js
+const log = require("log-util");
+
+log.info("Unwinding the flux hydralics...")
+log.warn("It's taking a long time...")
+log.ok("All done!")
+```
+
+## Available methods
+
+### `log.ok`
+### `log.info`
+### `log.warn`
+### `log.fail`
+### `log.skip`
 
 [travis-badge]: https://img.shields.io/travis/com/eliasnorrby/log-util?style=for-the-badge
 [travis-link]: https://travis-ci.com/eliasnorrby/log-util
