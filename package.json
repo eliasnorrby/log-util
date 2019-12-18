@@ -19,7 +19,9 @@
     "type": "git",
     "url": "https://github.com/eliasnorrby/log-util.git"
   },
-  "keywords": ["log"],
+  "keywords": [
+    "log"
+  ],
   "author": "Elias Norrby",
   "license": "MIT",
   "bugs": {
@@ -39,5 +41,8 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
   }
 }
