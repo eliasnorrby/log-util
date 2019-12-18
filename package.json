@@ -5,16 +5,23 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts"
+  ],
   "engines": {
     "node": ">=8"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "lint": "tsc",
+    "build": "tsc",
     "semantic-release": "semantic-release",
     "check-format": "prettier --list-different '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
-    "test": "jest"
+    "pretest": "npm run build",
+    "test": "jest",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
