@@ -7,7 +7,6 @@ jobs:
     - stage: test
       node_js: lts/*
       script:
-        - npm run lint
         - npm test
     - stage: release
       if: branch = master

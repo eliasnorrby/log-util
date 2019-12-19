@@ -1,4 +1,4 @@
-const log = require("./index");
+import { log } from "../index";
 
 describe("log", () => {
   it("should have an 'ok' method", () => {
