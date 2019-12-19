@@ -6,20 +6,17 @@
     "access": "public"
   },
   "files": [
-    "dist/index.js",
-    "dist/index.d.ts"
+    "lib/**/*"
   ],
   "engines": {
     "node": ">=8"
   },
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "semantic-release": "semantic-release",
     "check-format": "prettier --list-different '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
-    "pretest": "npm run build",
     "test": "jest",
     "prepare": "npm run build"
   },
