@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/eliasnorrby/log-util/compare/v1.1.0...v1.1.1) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump acorn from 5.7.3 to 5.7.4 ([67d9c03](https://github.com/eliasnorrby/log-util/commit/67d9c03c444b0e927b0d44080f2e9a25df1128d3))
+
 # [1.1.0](https://github.com/eliasnorrby/log-util/compare/v1.0.0...v1.1.0) (2019-12-19)
 
 
