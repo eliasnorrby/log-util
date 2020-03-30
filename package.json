@@ -35,10 +35,10 @@
   "homepage": "https://github.com/eliasnorrby/log-util#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
-    "@eliasnorrby/commitlint-config": "*",
+    "@eliasnorrby/commitlint-config": "^2.3.8",
     "@eliasnorrby/jest-config": "^2.0.0",
-    "@eliasnorrby/prettier-config": "*",
-    "@eliasnorrby/semantic-release-config": "*",
+    "@eliasnorrby/prettier-config": "^3.0.3",
+    "@eliasnorrby/semantic-release-config": "^3.0.0",
     "@types/jest": "^25.1.4",
     "husky": "^4.0.10",
     "jest": "^25.2.4",
