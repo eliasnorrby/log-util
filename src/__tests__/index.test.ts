@@ -1,23 +1,23 @@
-import { log } from "../index";
+import { log } from '../index'
 
-describe("log", () => {
+describe('log', () => {
   it("should have an 'ok' method", () => {
-    log.ok("I am okay");
-  });
+    log.ok('I am okay')
+  })
 
   it("should have an 'info' method", () => {
-    log.info("Stay informed");
-  });
+    log.info('Stay informed')
+  })
 
   it("should have a 'skip' method", () => {
-    log.skip("Skipping ahead");
-  });
+    log.skip('Skipping ahead')
+  })
 
   it("should have a 'warn' method", () => {
-    log.warn("Be warned");
-  });
+    log.warn('Be warned')
+  })
 
   it("should have a 'fail' method", () => {
-    log.fail("Do not fail me");
-  });
-});
+    log.fail('Do not fail me')
+  })
+})

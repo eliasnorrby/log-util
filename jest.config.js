@@ -1,4 +1,4 @@
 module.exports = {
-  ...require("@eliasnorrby/jest-config"),
-  roots: ["."]
-};
+  ...require('@eliasnorrby/jest-config'),
+  roots: ['.'],
+}
