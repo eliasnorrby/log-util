@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/eliasnorrby/log-util/compare/v1.1.1...v1.1.2) (2020-04-07)
+
+
+### Bug Fixes
+
+* **deps:** bump chalk from 3.0.0 to 4.0.0 ([db7b3d3](https://github.com/eliasnorrby/log-util/commit/db7b3d3dad3105111b6b0cb102c58b8607c51c5d))
+
 ## [1.1.1](https://github.com/eliasnorrby/log-util/compare/v1.1.0...v1.1.1) (2020-03-13)
 
 
