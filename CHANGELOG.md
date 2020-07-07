@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/eliasnorrby/log-util/compare/v1.1.3...v1.1.4) (2020-07-07)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm from 6.14.5 to 6.14.6 ([e007bbb](https://github.com/eliasnorrby/log-util/commit/e007bbbf59fbf8cd58c7bea75c953a162c7db8e5))
+
 ## [1.1.3](https://github.com/eliasnorrby/log-util/compare/v1.1.2...v1.1.3) (2020-06-10)
 
 
