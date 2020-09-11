@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/eliasnorrby/log-util/compare/v1.1.4...v1.1.5) (2020-09-11)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump node-fetch from 2.6.0 to 2.6.1 ([edaeb55](https://github.com/eliasnorrby/log-util/commit/edaeb5552ef444799b030907914928521889b058))
+
 ## [1.1.4](https://github.com/eliasnorrby/log-util/compare/v1.1.3...v1.1.4) (2020-07-07)
 
 
