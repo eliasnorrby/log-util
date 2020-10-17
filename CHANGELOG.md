@@ -1,3 +1,11 @@
+## [1.1.6](https://github.com/eliasnorrby/log-util/compare/v1.1.5...v1.1.6) (2020-10-17)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump lodash from 4.17.15 to 4.17.20 ([74b6eee](https://github.com/eliasnorrby/log-util/commit/74b6eeec3aa705487f70c74de7f6c36d9a0bde92))
+* **deps:** [security] bump npm-user-validate from 1.0.0 to 1.0.1 ([8b16d6f](https://github.com/eliasnorrby/log-util/commit/8b16d6f21a26b84dea21c95c7beeb0423a272c1c))
+
 ## [1.1.5](https://github.com/eliasnorrby/log-util/compare/v1.1.4...v1.1.5) (2020-09-11)
 
 
