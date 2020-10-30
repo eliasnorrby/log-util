@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/eliasnorrby/log-util/compare/v1.1.6...v1.1.7) (2020-10-30)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm-user-validate from 1.0.0 to 1.0.1 ([277c96e](https://github.com/eliasnorrby/log-util/commit/277c96eb32b8f5cc6f811c66b1cd98b2b0fb6104))
+
 ## [1.1.6](https://github.com/eliasnorrby/log-util/compare/v1.1.5...v1.1.6) (2020-10-17)
 
 
