@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/eliasnorrby/log-util/compare/v1.1.8...v1.1.9) (2021-03-27)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump ini from 1.3.5 to 1.3.8 ([6b06ed8](https://github.com/eliasnorrby/log-util/commit/6b06ed88f352fda7c2115e38b254b9387bf5d47d))
+
 ## [1.1.8](https://github.com/eliasnorrby/log-util/compare/v1.1.7...v1.1.8) (2020-11-18)
 
 
