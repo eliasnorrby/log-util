@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/eliasnorrby/log-util#readme",
   "devDependencies": {
-    "@commitlint/cli": "^12.0.1",
+    "@commitlint/cli": "^13.1.0",
     "@eliasnorrby/commitlint-config": "^2.3.8",
     "@eliasnorrby/jest-config": "^2.0.0",
     "@eliasnorrby/prettier-config": "^4.0.0",
