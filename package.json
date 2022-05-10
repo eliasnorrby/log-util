@@ -40,7 +40,7 @@
     "@eliasnorrby/prettier-config": "^4.0.0",
     "@eliasnorrby/semantic-release-config": "^3.0.0",
     "@types/jest": "^26.0.22",
-    "husky": "^7.0.0",
+    "husky": "^8.0.1",
     "jest": "^27.0.1",
     "prettier": "^2.0.2",
     "semantic-release": "^17.0.4",
